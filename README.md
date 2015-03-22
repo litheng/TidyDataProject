@@ -4,11 +4,12 @@ This repository contains submissions for the Course Project for the Coursera cou
 
 
 ##Information
-There are a total of 3 files in this repository:
+There are a total of 4 files in this repository:
 
 1. README.md: This file, which contains the information and content of this repository
 2. run_analysis.R: R script required for the Course Project
-3. CodeBook.md: Contains details of the steps done in run_analysis.R and contents of its output file
+3. tidy_means.txt: Output file containing tidy data after running run_analysis.R
+3. CodeBook.md: Contains details of the steps done in run_analysis.R and contents of tidy_means.txt
 
 
 
